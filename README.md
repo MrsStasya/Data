@@ -16,7 +16,9 @@
 В блоке headers в поле Authorization указан код fsq3V3AFHzvqod5PVkb9j5ptfec29VfLTGG2XbHrQEGC8bI=, который взят с семинара. 
 Поскольку проект учебный, то не регистрировалась на сайте, поэтому своего кода авторизации нет.
 
-Задание 2
+
+
+Задание 3
 
 Установите MongoDB на локальной машине, а также зарегистрируйтесь в онлайн-сервисе.  https://www.mongodb.com/ https://www.mongodb.com/products/compass
 
